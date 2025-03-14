@@ -1,7 +1,0 @@
-Django
-djangorestframework
-psycopg2-binary
-celery
-redis
-django-celery-results
-gunicorn

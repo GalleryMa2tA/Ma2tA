@@ -1,2 +1,0 @@
-web: gunicorn ma2ta.wsgi --log-file -
-worker: celery -A ma2ta worker --loglevel=info
